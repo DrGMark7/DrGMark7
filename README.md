@@ -3,6 +3,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DrGMark7)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DrGMark7&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DrGMark7)  
 <!--
 **DrGMark7/DrGMark7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
