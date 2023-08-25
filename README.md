@@ -4,7 +4,7 @@ deep learning learners
 ### Graduated 🎓
 - CoE06 ST43 Computer Engineering PSU 2020-2023
 - CPE37 KU83 Computer Engineering KU  2023-now
-===
+———
 - 🌱 I’m currently learning Neuromorphic engineering 
 
 <p align="left"></p>
