@@ -6,7 +6,7 @@ Skills:  Python / C#
 - 🌱 I’m currently learning Neuromorphic engineering 
 
 <p align="left">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drgmark7&show_icons=true&locale=en&layout=compact" alt="drgmark7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DrGMark7&show_icons=true&locale=en&layout=compact" alt="drgmark7" /></p>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
