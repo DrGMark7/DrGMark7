@@ -5,7 +5,7 @@ Skills:  Python / C#
 
 - 🌱 I’m currently learning Neuromorphic engineering 
 
-
+![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
 <p align="left">
 </p>
 
