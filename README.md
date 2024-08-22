@@ -11,7 +11,6 @@ deep learning learners
 
 ### Field of expertise
 - Computer Vision
-- Generative AI
 - Parallel Processing
 - Embedded System and IoT
   
